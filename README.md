@@ -1,27 +1,26 @@
-# 👋 → Hye to Hey
+# ✦ Hye to Hey
 
-**복잡한 생각을 덜어내 명확하게 전달되는 경험을 설계하는 기획자, 지혜입니다.**
+복잡한 생각을 덜어내고,  
+명확하게 전달되는 사용자 경험을 설계하는 기획자 지혜입니다.
 
-기록(Hye)에서 시작해 → 이해되는 메시지(HEY)로 도달하는 과정을 만듭니다.
+> 기록(Hye)에서 시작해, 이해되는 메시지(Hey)로 이어지는 과정을 만듭니다.
+
+<br>
+
+## 💡 Process
+
+- **Input**: 파편화된 기록과 데이터를 수집하고 관찰합니다.  
+- **Structure**: 본질을 정제해 사용자 중심의 흐름을 설계합니다.
+- **Output**: 선명한 메시지를 인터페이스로 구현합니다.
 
 
-## 🚀 What I Do
-- Problem 정의 → Structure 설계 → Delivery 최적화  
-- 정보를 정리하고, 전달되는 형태로 재구성  
-- 사용자 관점에서 흐름을 설계
+## 🚀 Expertise
 
+- **Planning & Strategy**: UX Thinking • Service Flow • Figma • Notion  
+- **Design**: Photoshop • Illustrator • Premiere Pro  
+- **Development**: HTML • CSS • JavaScript • React
 
-## 🚀 Skills & Tools
-
-**Planning & Strategy**  
-UX Thinking • Service Flow • Figma • Notion  
-
-**Design**  
-Photoshop • Illustrator
-
-**Development (Basic)**  
-HTML • CSS • JavaScript • React
-
+<br>
 
 ## 💼 Projects
 
@@ -61,10 +60,7 @@ Tech: Premiere Pro
 
 
 
-
----
-
-
+<br>
 
 ## 📫 Contact
 - Email: jihyejung.works@gmail.com

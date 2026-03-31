@@ -61,6 +61,5 @@ Tech: Premiere Pro
 <br>
 
 ## 📫 Contact
-- Email: jihyejung.works@gmail.com
-- Portfolio: 🔗 https://jihye-works.github.io/portfolio/
-- GitHub: 🔗
+✉️ **Email.** [`jihyejung.works@gmail.com`](mailto:jihyejung.works@gmail.com)  
+🔗 **Portfolio.** [`Visit Site ↗`](https://jihye-works.github.io/portfolio/)

@@ -15,9 +15,9 @@
 
 ## 🚀 Skills
 
-- **Planning**: Figma • Notion  
-- **Design**: Ai • Ps • Pr
-- **Development**: HTML • CSS • JavaScript
+- **Planning**: `Figma` • `Notion`  
+- **Design**: `Ai` • `Ps` • `Pr`
+- **Development**: `HTML` • `CSS` • `JavaScript`
 <br>
 
 ## 💼 Projects

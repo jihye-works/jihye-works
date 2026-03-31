@@ -7,19 +7,17 @@
 
 <br>
 
-## 💡 Process
+## 💡 Capabilities
 
-- **Input**: 파편화된 기록과 데이터를 수집하고 관찰합니다.  
-- **Structure**: 본질을 정제해 사용자 중심의 흐름을 설계합니다.
-- **Output**: 선명한 메시지를 인터페이스로 구현합니다.
+- B2B Strategy · Product Management
+- UX Planning · Design System · Publishing
 
 
-## 🚀 Expertise
+## 🚀 Skills
 
-- **Planning & Strategy**: UX Thinking • Service Flow • Figma • Notion  
-- **Design**: Photoshop • Illustrator • Premiere Pro  
-- **Development**: HTML • CSS • JavaScript • React
-
+- **Planning**: Figma • Notion  
+- **Design**: Ai • Ps • Pr
+- **Development**: HTML • CSS • JavaScript
 <br>
 
 ## 💼 Projects

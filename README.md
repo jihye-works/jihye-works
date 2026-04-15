@@ -29,23 +29,23 @@
 Tech: Figma • HTML  
 
 
-### 🐈 Cat Diet App
+### 🐈 MUGO - Cat Diet App
 모바일 앱 UI/UX 기획 (In progress)  
 - 사용자 문제 정의 및 기능 기획  
 - 와이어프레임 설계  
 Tech: Figma  
 
 
-### ☕ Landing Page
+### 📁 ITDA - Landing Page
 랜딩페이지 기획 및 캠페인 소재 제작 (In progress)  
 - 전환 중심 구조 설계  
 - 비주얼 콘텐츠 기획  
 Tech: Figma • Photoshop  
 
 
-### 🍕 Pizza Website Renewal
-기존 웹사이트 리뉴얼 기획 & 퍼블리싱 (In progress)  
-- UX 개선 방향 도출  
+### 🐄 Milkory - Dairy Brand Website
+웹사이트 기획 & 퍼블리싱 (In progress)  
+- UX 방향 도출  
 - 레이아웃 및 인터랙션 구현  
 Tech: HTML • CSS • JavaScript  
 

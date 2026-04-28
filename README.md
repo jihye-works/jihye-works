@@ -50,10 +50,10 @@ Tech: Figma • Photoshop
 Tech: HTML • CSS • JavaScript  
 
 
-### 🎬 Short-form Video
-영상 콘텐츠 제작 프로젝트 (In progress)  
-- 콘텐츠 기획 및 편집  
-- 메시지 전달 구조 설계  
+### 🎬 Bluescreen
+AI 기반 캠페인 영상 제작 프로젝트 (In progress)  
+- 캠페인 기획 및 편집  
+- 이미지 및 영상 제작  
 Tech: Premiere Pro  
 
 

@@ -51,11 +51,16 @@ Tech: HTML • CSS • JavaScript
 
 
 ### 🎬 Bluescreen
-AI 기반 캠페인 영상 제작 프로젝트 (In progress)  
+AI 기반 캠페인 영상 제작 프로젝트 (Team)
 - 캠페인 기획 및 편집  
 - 이미지 및 영상 제작  
 Tech: Premiere Pro  
 
+### 🏕 Campora
+CRUD 구현을 목표로 한 캠핑쇼핑몰 프로토타입 제작 (Team)  
+- MVP 정의 및 UIUX 흐름 설계
+- 디자인 시스템 • DB 설계 및 이미지 에셋 제작
+Tech: Figma
 
 
 <br>

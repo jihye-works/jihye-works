@@ -52,14 +52,14 @@ Tech: HTML • CSS • JavaScript
 
 ### 🎬 Bluescreen
 AI 기반 캠페인 영상 제작 프로젝트 (Team)
-- 캠페인 기획 및 편집  
-- 이미지 및 영상 제작  
+- 캠페인 기획 및 키컷 이미지 제작
+- AI를 활용한 영상 생성 및 편집
 Tech: Premiere Pro  
 
 ### 🏕 Campora
 CRUD 구현을 목표로 한 캠핑쇼핑몰 프로토타입 제작 (Team)  
-- MVP 정의 및 UIUX 흐름 설계
-- 디자인 시스템 • DB 설계 및 이미지 에셋 제작
+- MVP 정의 및 UIUX 설계 • PM
+- 디자인 시스템 • 이미지 에셋 제작
 Tech: Figma
 
 

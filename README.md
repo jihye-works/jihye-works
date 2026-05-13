@@ -43,11 +43,11 @@ Tech: Figma
 Tech: Figma • Photoshop  
 
 
-### 🐄 Milkory - Dairy Brand Website
-웹사이트 기획 & 퍼블리싱 (In progress)  
-- UX 방향 도출  
-- 레이아웃 및 인터랙션 구현  
-Tech: HTML • CSS • JavaScript  
+### ⛺ Campora - Dairy Brand Website
+웹사이트 기획 & 퍼블리싱 (Team)  
+- 브랜드 경험 설계
+- 웹사이트 디자인
+Tech: Figma
 
 
 ### 🎬 Bluescreen
